@@ -4,5 +4,28 @@ img
 }
 body
 {
-    background-color: aquamarine;
+    background-color:#edffec;
+    text-align: center;
+    font-size: 25px;
+}
+.image
+{
+    padding: 15px;
+}
+div.table
+{
+    padding-left: 212px;
+}
+ul li{
+    list-style: none;
+}
+.ul{
+    padding-right: 25px;
+}
+.social{
+    display: flex;
+    margin-left: 517px;
+}
+.social li{
+     padding: 10px;
 }
